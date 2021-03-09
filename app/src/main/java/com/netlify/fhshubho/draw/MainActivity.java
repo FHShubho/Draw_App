@@ -29,25 +29,6 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
-//    @Override
-//    public boolean onOptionsItemSelected(MenuItem item) {
-//        switch (item.getItemId()) {
-//            case R.id.subMenu0:
-//                painting.freeHandDraw();
-//
-//            case R.id.subMenu1:
-//                painting.lineDraw();
-//
-//            case R.id.subMenu2:
-//                painting.rectangleDraw();
-//
-//            case R.id.subMenu5:
-//                painting.clearCanvas();
-//        }
-//
-//        return super.onOptionsItemSelected(item);
-//    }
-
     public void drawFreeHand(MenuItem menu) {
         painting.freeHandDraw();
     }
