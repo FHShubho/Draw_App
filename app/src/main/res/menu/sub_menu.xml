@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/subMenu0"
+        android:title="Free Hand"
+        android:onClick="drawFreeHand"
+        />
+
+    <item
+        android:id="@+id/subMenu1"
+        android:title="Line"
+        android:onClick="drawLines"
+        />
+
+    <item
+        android:id="@+id/subMenu2"
+        android:title="Rectangle"
+        android:onClick="drawRectangle"
+        />
+
+    <item
+        android:id="@+id/subMenu3"
+        android:title="Circle"
+        android:onClick="drawCircle"
+        />
+
+    <item
+        android:id="@+id/subMenu4"
+        android:title="Triangle"
+        android:onClick="drawTriangle"
+        />
+
+    <item
+        android:id="@+id/subMenu5"
+        android:title="Clear"
+        android:onClick="clearAll"
+        />
+
+
+</menu>
