@@ -12,7 +12,7 @@
 
 
 
-![](D:\NSU\GitHub Repository\Draw_App\draw_app.gif)
+![](https://github.com/FHShubho/Draw_App/blob/main/draw_app.gif)
 
 
 
