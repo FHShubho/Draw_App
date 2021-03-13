@@ -12,7 +12,7 @@
 
 
 
-![Demo](https://i.ibb.co/NtkFKNY/draw-app.gif)
+![](D:\NSU\GitHub Repository\Draw_App\draw_app.gif)
 
 
 
